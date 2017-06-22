@@ -1,0 +1,103 @@
+[debug] [2017-06-22T14:08:56.429Z] ----------------------------------------------------------------------
+[debug] [2017-06-22T14:08:56.431Z] Command:      /home/nkroeker/.nvm/versions/node/v8.1.0/bin/node /home/nkroeker/.nvm/versions/node/v8.1.0/bin/firebase init
+[debug] [2017-06-22T14:08:56.431Z] CLI Version:  3.9.1
+[debug] [2017-06-22T14:08:56.431Z] Platform:     linux
+[debug] [2017-06-22T14:08:56.431Z] Node Version: v8.1.0
+[debug] [2017-06-22T14:08:56.431Z] Time:         Thu Jun 22 2017 10:08:56 GMT-0400 (EDT)
+[debug] [2017-06-22T14:08:56.431Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-06-22T14:08:56.437Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2017-06-22T14:08:56.438Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/nkroeker/Programming/xtern-bootcamp/noteherder-class
+
+[warn] ⚠  You have have not selected any features. Continuing will simply associate this folder with a Firebase project. Press Ctrl + C if you want to start over.
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2017-06-22T14:09:01.199Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2017-06-22T14:09:01.199Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/D35Zcyk8Hf_WKZFgw84ekcCJ6173w1unJwiIScgtsD0',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Thu Jun 22 2017 10:09:01 GMT-0400 (EDT)
+[debug] [2017-06-22T14:09:01.424Z] <<< HTTP RESPONSE 200
+[debug] [2017-06-22T14:09:01.524Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ Thu Jun 22 2017 10:09:01 GMT-0400 (EDT)
+[debug] [2017-06-22T14:09:02.132Z] <<< HTTP RESPONSE 200
+[debug] [2017-06-22T14:10:03.491Z] ----------------------------------------------------------------------
+[debug] [2017-06-22T14:10:03.493Z] Command:      /home/nkroeker/.nvm/versions/node/v8.1.0/bin/node /home/nkroeker/.nvm/versions/node/v8.1.0/bin/firebase init
+[debug] [2017-06-22T14:10:03.493Z] CLI Version:  3.9.1
+[debug] [2017-06-22T14:10:03.493Z] Platform:     linux
+[debug] [2017-06-22T14:10:03.493Z] Node Version: v8.1.0
+[debug] [2017-06-22T14:10:03.493Z] Time:         Thu Jun 22 2017 10:10:03 GMT-0400 (EDT)
+[debug] [2017-06-22T14:10:03.493Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-06-22T14:10:03.500Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2017-06-22T14:10:03.500Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/nkroeker/Programming/xtern-bootcamp/noteherder-class
+
+[warn] ⚠  You have have not selected any features. Continuing will simply associate this folder with a Firebase project. Press Ctrl + C if you want to start over.
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2017-06-22T14:10:05.756Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ Thu Jun 22 2017 10:10:05 GMT-0400 (EDT)
+[debug] [2017-06-22T14:10:06.546Z] <<< HTTP RESPONSE 200
+[debug] [2017-06-22T14:11:33.662Z] ----------------------------------------------------------------------
+[debug] [2017-06-22T14:11:33.664Z] Command:      /home/nkroeker/.nvm/versions/node/v8.1.0/bin/node /home/nkroeker/.nvm/versions/node/v8.1.0/bin/firebase init
+[debug] [2017-06-22T14:11:33.664Z] CLI Version:  3.9.1
+[debug] [2017-06-22T14:11:33.664Z] Platform:     linux
+[debug] [2017-06-22T14:11:33.664Z] Node Version: v8.1.0
+[debug] [2017-06-22T14:11:33.664Z] Time:         Thu Jun 22 2017 10:11:33 GMT-0400 (EDT)
+[debug] [2017-06-22T14:11:33.664Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-06-22T14:11:33.671Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2017-06-22T14:11:33.671Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/nkroeker/Programming/xtern-bootcamp/noteherder-class
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2017-06-22T14:11:40.407Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ Thu Jun 22 2017 10:11:40 GMT-0400 (EDT)
+[debug] [2017-06-22T14:11:40.860Z] <<< HTTP RESPONSE 200
